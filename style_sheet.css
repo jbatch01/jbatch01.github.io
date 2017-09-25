@@ -1,0 +1,10 @@
+.bold {
+	color: black;
+	font-weight: bold;
+}
+
+#center_image {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
