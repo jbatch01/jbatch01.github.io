@@ -9,3 +9,7 @@
     width: 50%;
 }
 
+#img.resize {
+    width:50%; 
+    height: auto;
+}
