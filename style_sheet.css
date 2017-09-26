@@ -3,13 +3,53 @@
 	font-weight: bold;
 }
 
-#center_image {
+#img_style {
+    max-width:50%; 
+    height: auto;
     display: block;
     margin: auto;
-    width: 50%;
 }
 
-#img.resize {
-    width:50%; 
-    height: auto;
+.center {
+	text-align: center;
+}
+
+p {
+	font-size: 24px;
+}
+
+.text_for_bio {
+	font-size: 18px;
+	color: white;
+}
+
+
+.bg { 
+    /* The image used */
+    background-image: url("IMG_0931.JPG");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color {
+	color: white;
+}
+
+.bg1 { 
+    /* The image used */
+    background-image: url("IMG_1948.JPG");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
