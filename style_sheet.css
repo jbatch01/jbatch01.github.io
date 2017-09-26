@@ -25,13 +25,8 @@ p {
 
 
 .bg { 
-    /* The image used */
     background-image: url("IMG_0931.JPG");
-
-    /* Full height */
     height: 100%; 
-
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,13 +37,8 @@ p {
 }
 
 .bg1 { 
-    /* The image used */
     background-image: url("IMG_1948.JPG");
-
-    /* Full height */
     height: 100%; 
-
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
